@@ -7,6 +7,7 @@ LSTM model for predicting the price of Bitcoin.
 
 <img src="model.png" style="width: 50%;"/>
 
+
 ### Data Processing:
 
 Scraping the data yields a 2D tensor of m samples by n features. We used a time-series transform to turn this into a set of windows data with window size w=50, yielding a 3D tensor of shape (m - w) samples by n features by w day window size. For instance, our first data point m=0 had a 2D tensor of m features for each of 0-49 days. Then, we normalized the data. Finally, we separated this into the input and output data by removing the last day and making it the output data. Refer to below for a visualization of this.
