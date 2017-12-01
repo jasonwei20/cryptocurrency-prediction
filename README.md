@@ -7,7 +7,7 @@ LSTM model for predicting the price of Bitcoin.
 
 ![alt text][model]
 
-[model]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+[model]: https://github.com/jasonwengwei/cryptocurrency-prediction/blob/master/model.png
 
 ### Data Processing:
 
@@ -15,7 +15,7 @@ Scraping the data yields a 2D tensor of m samples by n features. We used a time-
 
 ![alt text][processing]
 
-[processing]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+[processing]: https://github.com/jasonwengwei/cryptocurrency-prediction/blob/master/processing.png
 
 ### Results
 
