@@ -5,9 +5,7 @@ LSTM model for predicting the price of Bitcoin.
 
 3 layer bidirectional RNN to predict the closing price of Bitcoin given a variety of data from previous days. Code for scraping cryptocurrency data is included, as well as the LSTM model. The RNN architecture is shown as follows:
 
-![alt text][model]
-
-[model]: https://github.com/jasonwengwei/cryptocurrency-prediction/blob/master/model.png
+<img src="model.png" style="width: 200px;"/>
 
 ### Data Processing:
 
