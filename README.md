@@ -23,3 +23,5 @@ Our model predicts slightly better than random on testing data over a 3-month pe
 ### Acknowledgements
 
 I worked on this with William Wolfe-McGuire. This code provides several improvements to <a href="https://www.youtube.com/watch?v=ftMq5ps503w&t=458s">Siraj's stock prediction</a>.
+
+My brother made substantial improvements to this code. His repository is [here](https://github.com/JerryWei03/DeepCryptocurrency).
